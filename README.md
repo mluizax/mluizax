@@ -6,15 +6,14 @@
 ##### 🪄 Passionate about new technologies and games. 
 ##### 💡 First, solve the problem. Then, write the code.
 
-
+<img align="right" alt="Luiza" img src="https://cdn.discordapp.com/attachments/979345427394609173/983380245057011762/picasion.com_c71fcc39e2e49bd60c02bf1ebd237870.gif" width="300" height="300"/>
 
 <div>
 <a href="https://github.com/mluizax">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizax&layout=compact&langs_count=7&theme=dracula"/><img align="right" alt="Luiza" src="https://cdn.discordapp.com/attachments/738206857855762455/983361869416894514/WhatsApp_Image_2022-06-06_at_10.26.19.jpeg" width="300" height="300"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizax&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mluizax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
-  
-
+ 
   
 ### Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
