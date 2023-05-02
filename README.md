@@ -2,7 +2,7 @@
 ##### 👩‍💻 My name is Maria Luiza and I'm from Brazil.
 ##### ✨ I'm a computer engineering student at the Federal University of Pernambuco (UFPE).
 ##### 🏢 I'm currently working at Exmed.
-##### 🌱 I'm currently learning Data Science and Software Development. 
+##### 🌱 I'm currently learning and working with Software Development. 
 ##### ⚡ Passionate about new technologies and games. 
 ##### 💡 First, solve the problem. Then, write the code.
 
@@ -24,9 +24,9 @@
 
 <div>
 <a href = "mailto:mlorb@cin.ufpe.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maria-luiza-ottwil-818656239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marialuizaottwil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/12155026019" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/luizaxwm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/luottwil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/missluiza" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCew_gxO1VeMfSKq8AIoRtPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
