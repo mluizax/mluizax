@@ -1,8 +1,8 @@
 ## 🪐 Hello, Devs! Welcome to my Github profile. 
 ##### 👩‍💻 My name is Maria Luíza and I'm from Brazil.
 ##### ✨ I'm a computer engineering student at the Federal University of Pernambuco (UFPE).
-##### 🏢 I'm currently working at Exmed.
-##### 🌱 I'm currently working with Software Development. 
+##### 🏢 I'm currently working as freelancer.
+##### 🌱 I'm currently working with Software Development and Data Science. 
 ##### ⚡ Passionate about new technologies and games. 
 ##### 💡 First, solve the problem. Then, write the code.
 
